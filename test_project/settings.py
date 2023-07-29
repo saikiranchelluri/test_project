@@ -56,7 +56,7 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'test_project.urls'
 
 CORS_ALLOWED_ORIGINS = [
-  'http://localhost:3000','http://65.2.182.18:3000',
+  'http://localhost:3000','http://65.2.182.18',,
   
   
   ]
